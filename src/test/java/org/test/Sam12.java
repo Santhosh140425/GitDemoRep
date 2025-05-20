@@ -13,5 +13,8 @@ public class Sam12 {
     public void sampleTest33(){
         System.out.println("sample testing 33");
     }
+    public void sampleTe(){
+        System.out.println("sample testing 1234");
+    }
 
 }
